@@ -1,0 +1,21 @@
+{
+  "name": "20260514-grafana-azure-mdb",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Slidev deck for Real-Time Observability with MongoDB and Grafana",
+  "scripts": {
+    "dev": "slidev slides/deck.md --port 3030 --remote",
+    "build": "slidev build slides/deck.md",
+    "export": "slidev export slides/deck.md"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.2.11",
+    "@slidev/cli": "^51.5.0",
+    "playwright-chromium": "^1.59.1",
+    "slidev-theme-penguin": "^2.3.1"
+  },
+  "dependencies": {
+    "@slidev/theme-default": "^0.25.0",
+    "@slidev/theme-seriph": "^0.25.0"
+  }
+}
