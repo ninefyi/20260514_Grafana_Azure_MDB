@@ -1,4 +1,4 @@
-# Grafana x MongoDB User Groups
+# Singapore (Grafana x MongoDB) User Groups
 
 Date: 14-May-2026
 
