@@ -415,5 +415,6 @@ layout: section
 ## Reference
 
 - Meetup: https://www.meetup.com/grafana-and-friends-singapore/events/314162971
+- Repo: https://github.com/ninefyi/20260514_Grafana_Azure_MDB
 
 Thank you.

@@ -1,10 +1,10 @@
-# Real-Time Observability with MongoDB and Grafana: From Logs to Dashboard
+# Grafana x MongoDB User Groups
 
 Date: 14-May-2026
 
-Event: Grafana and Friend (MongoDB x Grafana x Microsoft Azure)
+Topic: Real-Time Observability with MongoDB and Grafana: From Logs to Dashboard
 
-Reference: https://www.meetup.com/grafana-and-friends-singapore/events/314162971
+Meetup: https://www.meetup.com/grafana-and-friends-singapore/events/314162971
 
 ## Run the slide deck
 
